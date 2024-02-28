@@ -52,7 +52,19 @@ Start the Client
   cd frontend
   npm start
 ```
-
+#Features
+### Authenticaton
+![](https://github.com/anuragsingh132200/chat-app/blob/main/screenshots/login.PNG)
+![](https://github.com/anuragsingh132200/chat-app/blob/main/screenshots/signup.PNG)
+### Real Time Chatting with Typing indicators
+![](https://github.com/anuragsingh132200/chat-app/blob/main/screenshots/real-time.PNG)
+### One to One chat
+![](https://github.com/anuragsingh132200/chat-app/blob/main/screenshots/mainscreen.PNG)
+### Search Users
+![](https://github.com/anuragsingh132200/chat-app/blob/main/screenshots/search.PNG)
+### Create Group Chats
+![](https://github.com/anuragsingh132200/chat-app/blob/main/screenshots/new%20grp.PNG)
+##and many more
 ## Made By
 
 - [@Anuragsingh132200](https://github.com/anuragsingh132200)
